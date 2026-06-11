@@ -1,3 +1,4 @@
+//Print all the number form 1 to n using do while loop.
 #include<iostream>
 using namespace std;
 int main(){

@@ -1,3 +1,4 @@
+//convert decimal to binary.
 #include<iostream>
 using namespace std;
 int binary(int n){

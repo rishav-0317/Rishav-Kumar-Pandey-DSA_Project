@@ -1,3 +1,4 @@
+//Using ternary operatror.
 #include<iostream>
 using namespace std;
 int main()

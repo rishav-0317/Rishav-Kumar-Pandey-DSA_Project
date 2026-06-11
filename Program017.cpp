@@ -1,3 +1,4 @@
+//Print the factorial of number.
 #include<iostream>
 using namespace std;
 int main(){

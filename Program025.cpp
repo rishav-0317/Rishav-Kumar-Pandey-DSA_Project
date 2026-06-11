@@ -1,3 +1,6 @@
+// 1 
+// 1 2 
+// 1 2 3 
 #include<iostream>
 using namespace std;
 int main(){

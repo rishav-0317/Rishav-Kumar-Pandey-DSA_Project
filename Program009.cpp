@@ -1,4 +1,7 @@
+//Print all number from 1 to n.
+
 #include<iostream>
+
 using namespace std;
 int main(){
     int n;

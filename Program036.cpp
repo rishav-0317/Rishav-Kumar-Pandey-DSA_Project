@@ -1,3 +1,4 @@
+//Calculate nCr using function.
 #include<iostream>
 using namespace std;
 int fact(int n){

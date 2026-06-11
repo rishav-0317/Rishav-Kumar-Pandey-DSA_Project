@@ -1,3 +1,4 @@
+//Print the sum of the number between 1 to n which is divisible by 3.
 #include<iostream>
 using namespace std;
 int main(){

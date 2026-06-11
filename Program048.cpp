@@ -1,3 +1,4 @@
+//Reverse elements in an array.
 #include<iostream>
 using namespace std;
 void reverseArray(int arr[],int sz){

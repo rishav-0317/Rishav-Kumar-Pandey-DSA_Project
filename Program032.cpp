@@ -1,3 +1,4 @@
+//Print he sum of the numbers from 1 to n using function.
 #include<iostream>
 using namespace std;
 int sum(int n){

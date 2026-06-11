@@ -1,3 +1,4 @@
+//Calculate factorial using Function.
 #include<iostream>
 using namespace std;
 int fact(int n){
